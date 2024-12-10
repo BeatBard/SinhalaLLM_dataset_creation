@@ -1,0 +1,2 @@
+nohup: ignoring input
+Generating train split:   0%|          | 0/179191 [00:00<?, ? examples/s]Generating train split: 100%|██████████| 179191/179191 [00:24<00:00, 7304.61 examples/s]Generating train split: 100%|██████████| 179191/179191 [00:24<00:00, 7296.17 examples/s]

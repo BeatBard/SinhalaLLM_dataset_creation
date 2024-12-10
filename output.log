@@ -8607,3 +8607,7 @@ remote: warning: File env/lib/python3.8/site-packages/pyarrow/libarrow.so.1700 i
 remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
    e8b5983..9a8e026  main -> main
+[main b17e871] Progress: Translated row 2
+ 2 files changed, 8651 insertions(+), 1 deletion(-)
+To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
+   9a8e026..b17e871  main -> main

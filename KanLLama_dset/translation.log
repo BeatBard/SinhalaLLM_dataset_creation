@@ -95,3 +95,6 @@ ENDINPUT
 ಈ ಎಲ್ಲಾ ಅಂಶಗಳನ್ನು ಪರಿಗಣಿಸಿ ಮತ್ತು ಸಂಪೂರ್ಣ ಸಂಶೋಧನೆ ನಡೆಸುವ ಮೂಲಕ, ನಿರ್ಮಾಣ ಕಂಪನಿಯು ಹೊಸ ವಸತಿ ಸಂಕೀರ್ಣಕ್ಕಾಗಿ ಸಮಗ್ರ ಬಜೆಟ್ ಮತ್ತು ಆದಾಯದ ಪ್ರಕ್ಷೇಪಣವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಬಹುದು.': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 06:13:42,148 - INFO - Successfully translated row 8/35510.
 2024-12-11 06:13:42,152 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 06:13:46,478 - INFO - Changes pushed to GitHub after translating row 8.
+2024-12-11 06:13:47,327 - INFO - Successfully translated row 9/35510.
+2024-12-11 06:13:47,336 - INFO - Progress saved to translated_dataset.csv.

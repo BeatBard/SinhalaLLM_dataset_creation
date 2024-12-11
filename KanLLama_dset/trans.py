@@ -15,8 +15,7 @@ logging.basicConfig(
 # Authenticate with Hugging Face
 try:
     logging.info("Authenticating with Hugging Face...")
-    # Replace with your actual Hugging Face token
-    login("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")
+    login("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")  # Replace with your actual Hugging Face token
     logging.info("Successfully authenticated with Hugging Face.")
 except Exception as e:
     logging.error(f"Error during Hugging Face authentication: {e}. Exiting...")
@@ -64,8 +63,11 @@ def translate_to_sinhala(text):
 # Initialize list to store translated data
 translated_data = []
 
-# Translate row by row
-for index, row in df.iterrows():
+# Start translation from the 161st row
+start_row = 160  # Zero-based index, so 161st row corresponds to index 160
+
+# Translate row by row starting from the specified index
+for index, row in df.iloc[start_row:].iterrows():  # Use iloc to skip the first 160 rows
     try:
         translated_chunks = []
 

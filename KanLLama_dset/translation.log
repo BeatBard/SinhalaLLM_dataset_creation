@@ -1647,3 +1647,10 @@ BEGINCONTEXT
 2024-12-11 07:18:43,671 - WARNING - Retrying Git operations in the next iteration...
 2024-12-11 07:18:47,076 - INFO - Successfully translated row 161/35510.
 2024-12-11 07:18:47,109 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 07:48:41,439 - INFO - Authenticating with Hugging Face...
+2024-12-11 07:48:41,687 - INFO - Successfully authenticated with Hugging Face.
+2024-12-11 07:48:41,688 - INFO - Downloading dataset from Hugging Face...
+2024-12-11 07:48:41,902 - INFO - Dataset downloaded successfully to /root/.cache/huggingface/hub/datasets--Tensoic--airoboros-3.2_kn/snapshots/7fe4f22caec438cb2f157dcb80f9409d190cf5d1/data.jsonl.
+2024-12-11 07:48:43,471 - INFO - Dataset loaded successfully with 35510 rows.
+2024-12-11 07:48:44,225 - INFO - Successfully translated row 161/35510.
+2024-12-11 07:48:44,229 - INFO - Progress saved to translated_dataset.csv.

@@ -1865,3 +1865,6 @@ GORDON RAMSAY: ಈಗ, ನಾವು ನಮ್ಮ ಭರ್ತಿಯನ್ನು 
 [ದೃಶ್ಯವು ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ಮಸುಕಾಗುತ್ತದೆ] --> Text length need to be between 0 and 5000 characters
 2024-12-11 07:48:53,491 - INFO - Successfully translated row 163/35510.
 2024-12-11 07:48:53,493 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 07:48:56,155 - INFO - Changes pushed to GitHub after translating row 163.
+2024-12-11 07:48:58,698 - INFO - Successfully translated row 164/35510.
+2024-12-11 07:48:58,703 - INFO - Progress saved to translated_dataset.csv.

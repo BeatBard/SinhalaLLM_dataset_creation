@@ -1,0 +1,7 @@
+2024-12-11 06:12:54,450 - INFO - Authenticating with Hugging Face...
+2024-12-11 06:12:54,750 - INFO - Successfully authenticated with Hugging Face.
+2024-12-11 06:12:54,751 - INFO - Downloading dataset from Hugging Face...
+2024-12-11 06:12:54,896 - INFO - Dataset downloaded successfully to /root/.cache/huggingface/hub/datasets--Tensoic--airoboros-3.2_kn/snapshots/7fe4f22caec438cb2f157dcb80f9409d190cf5d1/data.jsonl.
+2024-12-11 06:12:56,539 - INFO - Dataset loaded successfully with 35510 rows.
+2024-12-11 06:12:57,254 - INFO - Successfully translated row 1/35510.
+2024-12-11 06:12:57,257 - INFO - Progress saved to translated_dataset.csv.

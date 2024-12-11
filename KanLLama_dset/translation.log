@@ -1995,3 +1995,6 @@ VII
 ಮತ್ತು ನಾವು ಮೇಲಕ್ಕೆ ತಲುಪಿದಾಗ, ನಿಮ್ಮ ಬೆಳಕು ನಮ್ಮನ್ನು ಸ್ವರ್ಗಕ್ಕೆ ಮತ್ತು ಅದಕ್ಕೂ ಮೀರಿ ನಡೆಸಲಿ.': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 07:49:23,597 - INFO - Successfully translated row 169/35510.
 2024-12-11 07:49:23,601 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 07:49:27,097 - INFO - Changes pushed to GitHub after translating row 169.
+2024-12-11 07:49:29,088 - INFO - Successfully translated row 170/35510.
+2024-12-11 07:49:29,092 - INFO - Progress saved to translated_dataset.csv.

@@ -525,3 +525,6 @@ ENDINPUT
 ಫ್ರೊಡೊ ಬ್ಯಾಗಿನ್ಸ್: ಅದು ನಿಜ, ಹ್ಯಾರಿ. ನಮ್ಮ ಜಗತ್ತು ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ಶಾಂತಿಯಿಂದ ಇರಲಿ.': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 06:48:39,045 - INFO - Successfully translated row 62/35510.
 2024-12-11 06:48:39,052 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 06:48:43,654 - INFO - Changes pushed to GitHub after translating row 62.
+2024-12-11 06:48:45,485 - INFO - Successfully translated row 63/35510.
+2024-12-11 06:48:45,498 - INFO - Progress saved to translated_dataset.csv.

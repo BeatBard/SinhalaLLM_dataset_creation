@@ -1154,3 +1154,6 @@ ENDINPUT
 [ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆ]': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 07:09:26,477 - INFO - Successfully translated row 97/35510.
 2024-12-11 07:09:26,486 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 07:09:29,822 - INFO - Changes pushed to GitHub after translating row 97.
+2024-12-11 07:09:31,836 - INFO - Successfully translated row 98/35510.
+2024-12-11 07:09:31,863 - INFO - Progress saved to translated_dataset.csv.

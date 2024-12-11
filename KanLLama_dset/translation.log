@@ -612,3 +612,6 @@ ENDINPUT
 ಏಕೆಂದರೆ ಅವರು ನಾಟಿಲಸ್‌ನ ಸಿಬ್ಬಂದಿಯಾಗಿದ್ದರು ಮತ್ತು ಅವರು ಪ್ರಪಾತವನ್ನು ವಶಪಡಿಸಿಕೊಂಡರು. --> Text length need to be between 0 and 5000 characters
 2024-12-11 06:48:51,440 - INFO - Successfully translated row 64/35510.
 2024-12-11 06:48:51,483 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 06:48:56,296 - INFO - Changes pushed to GitHub after translating row 64.
+2024-12-11 06:48:58,232 - INFO - Successfully translated row 65/35510.
+2024-12-11 06:48:58,245 - INFO - Progress saved to translated_dataset.csv.

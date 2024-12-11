@@ -287,3 +287,6 @@ ENDINPUT
 2024-12-11 06:46:45,111 - WARNING - Retrying Git operations in the next iteration...
 2024-12-11 06:46:46,835 - INFO - Successfully translated row 43/35510.
 2024-12-11 06:46:46,882 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 06:46:49,611 - INFO - Changes pushed to GitHub after translating row 43.
+2024-12-11 06:46:51,845 - INFO - Successfully translated row 44/35510.
+2024-12-11 06:46:51,850 - INFO - Progress saved to translated_dataset.csv.

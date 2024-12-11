@@ -164,3 +164,6 @@ ENDINPUT
 ಧನ್ಯವಾದಗಳು, ಮತ್ತು ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ಶಾಂತಿ, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯವು ಮೇಲುಗೈ ಸಾಧಿಸಲಿ.': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 06:15:04,144 - INFO - Successfully translated row 20/35510.
 2024-12-11 06:15:04,149 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 06:15:09,958 - INFO - Changes pushed to GitHub after translating row 20.
+2024-12-11 06:15:12,260 - INFO - Successfully translated row 21/35510.
+2024-12-11 06:15:12,267 - INFO - Progress saved to translated_dataset.csv.

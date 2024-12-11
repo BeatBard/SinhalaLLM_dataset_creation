@@ -1,1 +1,8 @@
 nohup: ignoring input
+[main 9d1d8c7] Progress: Translated row 1
+ 4 files changed, 39 insertions(+), 9141 deletions(-)
+ rewrite KanLLama_dset/output.log (99%)
+ rewrite KanLLama_dset/translated_dataset.csv (99%)
+ rewrite KanLLama_dset/translation.log (99%)
+To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
+   516ccaa..9d1d8c7  main -> main

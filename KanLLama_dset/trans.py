@@ -15,7 +15,7 @@ logging.basicConfig(
 # Authenticate with Hugging Face
 try:
     logging.info("Authenticating with Hugging Face...")
-    # Replace <your-hugging-face-token> with your actual Hugging Face token
+    # Replace with your actual Hugging Face token
     login("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")
     logging.info("Successfully authenticated with Hugging Face.")
 except Exception as e:
@@ -40,6 +40,19 @@ except Exception as e:
     logging.error(f"Error downloading or loading dataset: {e}. Exiting...")
     exit(1)
 
+# Function to split text into chunks of maximum length, ending at logical points (e.g., full stop)
+def split_text_into_chunks(text, max_length=4975):
+    chunks = []
+    while len(text) > max_length:
+        split_idx = text[:max_length].rfind(".") + 1  # Find the last full stop within the limit
+        if split_idx == 0:  # No full stop found, force split
+            split_idx = max_length
+        chunks.append(text[:split_idx].strip())
+        text = text[split_idx:].strip()
+    if text:  # Add remaining text
+        chunks.append(text.strip())
+    return chunks
+
 # Function to translate text using GoogleTranslator
 def translate_to_sinhala(text):
     try:
@@ -54,11 +67,22 @@ translated_data = []
 # Translate row by row
 for index, row in df.iterrows():
     try:
-        # Translate each field
+        translated_chunks = []
+
+        # Translate input field, handling large text
+        for chunk in split_text_into_chunks(row["input"], max_length=4975):
+            translated_chunks.append(translate_to_sinhala(chunk))
+        translated_input = " ".join(translated_chunks)  # Combine all translated chunks
+
+        # Translate other fields
+        translated_instruction = translate_to_sinhala(row["instruction"])
+        translated_output = translate_to_sinhala(row["output"])
+
+        # Add translated row to data
         translated_row = {
-            "input": translate_to_sinhala(row["input"]),
-            "instruction": translate_to_sinhala(row["instruction"]),
-            "output": translate_to_sinhala(row["output"]),
+            "input": translated_input,
+            "instruction": translated_instruction,
+            "output": translated_output,
         }
         translated_data.append(translated_row)
         logging.info(f"Successfully translated row {index + 1}/{len(df)}.")

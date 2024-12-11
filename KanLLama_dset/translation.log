@@ -809,3 +809,6 @@ ENDINPUT
 ಅಂತ್ಯೋಪದೇಶ': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 07:07:27,897 - INFO - Successfully translated row 79/35510.
 2024-12-11 07:07:27,918 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 07:07:30,446 - INFO - Changes pushed to GitHub after translating row 79.
+2024-12-11 07:07:33,352 - INFO - Successfully translated row 80/35510.
+2024-12-11 07:07:33,373 - INFO - Progress saved to translated_dataset.csv.

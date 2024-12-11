@@ -2514,3 +2514,6 @@ PHOEBE
 4. ಅದ್ದುವುದಕ್ಕಾಗಿ ಗರಿಗರಿಯಾದ ಚೀಸೀ ಹೂಕೋಸು ಕ್ಲೌಡ್ಸ್ ಜೊತೆಗೆ ಸರ್ವ್ ಮಾಡಿ.': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 07:50:16,146 - INFO - Successfully translated row 179/35510.
 2024-12-11 07:50:16,154 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 07:50:20,016 - INFO - Changes pushed to GitHub after translating row 179.
+2024-12-11 07:50:22,814 - INFO - Successfully translated row 180/35510.
+2024-12-11 07:50:22,823 - INFO - Progress saved to translated_dataset.csv.

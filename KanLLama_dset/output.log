@@ -6,3 +6,7 @@ nohup: ignoring input
  rewrite KanLLama_dset/translation.log (99%)
 To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
    516ccaa..9d1d8c7  main -> main
+[main e63d868] Progress: Translated row 2
+ 3 files changed, 101 insertions(+)
+To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
+   9d1d8c7..e63d868  main -> main

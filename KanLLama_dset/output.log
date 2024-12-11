@@ -350,3 +350,8 @@ To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
  3 files changed, 8 insertions(+)
 To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
    d07ae20..accd481  main -> main
+[main c959331] Progress: Translated row 88
+ 3 files changed, 378 insertions(+)
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/BeatBard/SinhalaLLM_dataset_creation.git/'

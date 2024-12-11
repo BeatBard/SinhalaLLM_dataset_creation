@@ -353,3 +353,6 @@ XYZ ರೋಬೋಟಿಕ್ಸ್ ನವೀನ ರೋಬೋಟಿಕ್ ಪರ�
 [ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆ]': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 06:46:55,053 - INFO - Successfully translated row 45/35510.
 2024-12-11 06:46:55,060 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 06:46:59,316 - INFO - Changes pushed to GitHub after translating row 45.
+2024-12-11 06:47:01,548 - INFO - Successfully translated row 46/35510.
+2024-12-11 06:47:01,553 - INFO - Progress saved to translated_dataset.csv.

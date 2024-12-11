@@ -1902,3 +1902,6 @@ GORDON RAMSAY: ಈಗ, ನಾವು ನಮ್ಮ ಭರ್ತಿಯನ್ನು 
 ಸಂಕ್ಷಿಪ್ತವಾಗಿ, ಹೊಲೊಗ್ರಾಫಿ ಎನ್ನುವುದು ಬೆಳಕಿನ ತರಂಗ ಹಸ್ತಕ್ಷೇಪ ಮಾದರಿಗಳನ್ನು ಬಳಸಿಕೊಂಡು 3D ಚಿತ್ರಗಳನ್ನು ಸೆರೆಹಿಡಿಯುವ ಮತ್ತು ಪುನರುತ್ಪಾದಿಸುವ ತಂತ್ರವಾಗಿದೆ. ಪ್ರಕ್ರಿಯೆಯು ಸುಸಂಬದ್ಧ ಬೆಳಕಿನ ಮೂಲಗಳು, ಕಿರಣದ ವಿಭಜನೆ, ವಸ್ತುವಿನ ಪ್ರಕಾಶ ಮತ್ತು ದ್ಯುತಿಸಂವೇದಕ ವಸ್ತುಗಳ ಮೇಲೆ ಹಸ್ತಕ್ಷೇಪ ಮಾದರಿಯ ರಚನೆಯನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಡೇಟಾ ಸಂಗ್ರಹಣೆ, ಭದ್ರತೆ, ಕಲೆ, ವೈದ್ಯಕೀಯ ಚಿತ್ರಣ ಮತ್ತು ದೂರಸಂಪರ್ಕ ಸೇರಿದಂತೆ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಹೊಲೊಗ್ರಾಫಿಯ ಸಂಭಾವ್ಯ ಅನ್ವಯಿಕೆಗಳು.': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 07:49:03,177 - INFO - Successfully translated row 165/35510.
 2024-12-11 07:49:03,180 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 07:49:06,214 - INFO - Changes pushed to GitHub after translating row 165.
+2024-12-11 07:49:08,986 - INFO - Successfully translated row 166/35510.
+2024-12-11 07:49:08,990 - INFO - Progress saved to translated_dataset.csv.

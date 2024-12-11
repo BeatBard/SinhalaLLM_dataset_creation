@@ -2543,3 +2543,6 @@ PHOEBE
 ಡಾರ್ಕ್ ಸೈಡ್ ಅನ್ನು ಸ್ವೀಕರಿಸಿ, ಮತ್ತು ಒಟ್ಟಿಗೆ, ನಾವು ನಕ್ಷತ್ರಪುಂಜವನ್ನು ಆಳುತ್ತೇವೆ.': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 07:50:29,195 - INFO - Successfully translated row 181/35510.
 2024-12-11 07:50:29,199 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 07:50:33,115 - INFO - Changes pushed to GitHub after translating row 181.
+2024-12-11 07:50:35,577 - INFO - Successfully translated row 182/35510.
+2024-12-11 07:50:35,584 - INFO - Progress saved to translated_dataset.csv.

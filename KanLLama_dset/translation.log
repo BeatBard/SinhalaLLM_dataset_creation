@@ -277,3 +277,6 @@ ENDINPUT
 6. ಲಾಂಗ್ ಸ್ಟಿಕ್ ಮಿಡ್‌ಫೀಲ್ಡರ್ (LSM): ಈ ರಕ್ಷಣಾತ್ಮಕ ಮನಸ್ಸಿನ ಮಿಡ್‌ಫೀಲ್ಡರ್ ಎದುರಾಳಿ ತಂಡದ ಅಪರಾಧವನ್ನು ಅಡ್ಡಿಪಡಿಸಲು ಮತ್ತು ವಹಿವಾಟುಗಳನ್ನು ರಚಿಸಲು ಉದ್ದವಾದ ಕೋಲನ್ನು ಬಳಸುತ್ತಾರೆ. ಮುಖಾಮುಖಿಯ ಸಮಯದಲ್ಲಿ ಅವರು ಸಾಮಾನ್ಯವಾಗಿ ವಿಂಗ್‌ನಲ್ಲಿ ಆಡುತ್ತಾರೆ ಮತ್ತು ಎದುರಾಳಿಯ ಟಾಪ್ ಮಿಡ್‌ಫೀಲ್ಡ್ ಬೆದರಿಕೆಯನ್ನು ಕವರ್ ಮಾಡುವ ಕಾರ್ಯವನ್ನು ಹೊಂದಿರಬಹುದು.': Request exception can happen due to an api connection error. Please check your connection and try again
 2024-12-11 06:36:35,040 - INFO - Successfully translated row 40/35510.
 2024-12-11 06:36:35,048 - INFO - Progress saved to translated_dataset.csv.
+2024-12-11 06:36:40,220 - INFO - Changes pushed to GitHub after translating row 40.
+2024-12-11 06:36:43,353 - INFO - Successfully translated row 41/35510.
+2024-12-11 06:36:43,359 - INFO - Progress saved to translated_dataset.csv.

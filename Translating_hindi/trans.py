@@ -48,8 +48,6 @@ def split_text_into_chunks(text, max_length=4975):
 # Function to translate text using GoogleTranslator
 def translate_to_sinhala(text):
     try:
-        # Introduce a small delay between API requests
-        time.sleep(1)  # Adjust delay as needed
         return GoogleTranslator(source="hi", target="si").translate(text)
     except Exception as e:
         logging.error(f"Error translating text '{text}': {e}")

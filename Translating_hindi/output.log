@@ -1,518 +1,784 @@
 nohup: ignoring input
-[main 2ae7506c] Progress: Translated row 1
- 4 files changed, 19 insertions(+), 489 deletions(-)
- rewrite Translating_hindi/output.log (99%)
- rewrite Translating_hindi/translated_dataset.csv (94%)
-remote: warning: See https://gh.io/lfs for more information.        
-remote: warning: File Translating_hindi/env/lib/python3.8/site-packages/pyarrow/libarrow.so.1700 is 59.66 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
-remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   94092c41..2ae7506c  main -> main
-[main 48d86563] Progress: Translated row 2
- 3 files changed, 13 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   2ae7506c..48d86563  main -> main
-[main 0e08d3a6] Progress: Translated row 3
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   48d86563..0e08d3a6  main -> main
-[main bf6511cf] Progress: Translated row 4
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   0e08d3a6..bf6511cf  main -> main
-[main 4c75e27b] Progress: Translated row 5
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   bf6511cf..4c75e27b  main -> main
-[main a4bc9208] Progress: Translated row 6
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   4c75e27b..a4bc9208  main -> main
-[main e56a2bb4] Progress: Translated row 7
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   a4bc9208..e56a2bb4  main -> main
-[main b3de4d8e] Progress: Translated row 8
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   e56a2bb4..b3de4d8e  main -> main
-[main 7adabfe8] Progress: Translated row 9
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   b3de4d8e..7adabfe8  main -> main
-[main 5aa3fdd1] Progress: Translated row 10
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   7adabfe8..5aa3fdd1  main -> main
-[main 8904fcda] Progress: Translated row 11
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   5aa3fdd1..8904fcda  main -> main
-[main ae3c1955] Progress: Translated row 12
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   8904fcda..ae3c1955  main -> main
-[main 229d2d9d] Progress: Translated row 13
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   ae3c1955..229d2d9d  main -> main
-[main 25a470cc] Progress: Translated row 14
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   229d2d9d..25a470cc  main -> main
-[main 86736fee] Progress: Translated row 15
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   25a470cc..86736fee  main -> main
-[main 67579fb7] Progress: Translated row 16
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   86736fee..67579fb7  main -> main
-[main 19d020d5] Progress: Translated row 17
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   67579fb7..19d020d5  main -> main
-[main b2ab9cd7] Progress: Translated row 18
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   19d020d5..b2ab9cd7  main -> main
-[main f61923da] Progress: Translated row 19
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   b2ab9cd7..f61923da  main -> main
-[main 001f1b9f] Progress: Translated row 20
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   f61923da..001f1b9f  main -> main
-[main 3f66aca5] Progress: Translated row 21
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   001f1b9f..3f66aca5  main -> main
-[main d427d0fa] Progress: Translated row 22
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   3f66aca5..d427d0fa  main -> main
-[main 6fa363ec] Progress: Translated row 23
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   d427d0fa..6fa363ec  main -> main
-[main a687f75e] Progress: Translated row 24
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   6fa363ec..a687f75e  main -> main
-[main 27b17922] Progress: Translated row 25
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   a687f75e..27b17922  main -> main
-[main ce19abcc] Progress: Translated row 26
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   27b17922..ce19abcc  main -> main
-[main f5200774] Progress: Translated row 27
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   ce19abcc..f5200774  main -> main
-[main dab43cd8] Progress: Translated row 28
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   f5200774..dab43cd8  main -> main
-[main 642383c6] Progress: Translated row 29
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   dab43cd8..642383c6  main -> main
-[main ec1ef5ad] Progress: Translated row 30
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   642383c6..ec1ef5ad  main -> main
-[main df2f87b9] Progress: Translated row 31
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   ec1ef5ad..df2f87b9  main -> main
-[main de8ac891] Progress: Translated row 32
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   df2f87b9..de8ac891  main -> main
-[main 3ea28b65] Progress: Translated row 33
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   de8ac891..3ea28b65  main -> main
-[main f7c292b6] Progress: Translated row 34
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   3ea28b65..f7c292b6  main -> main
-[main 1daf93f6] Progress: Translated row 35
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   f7c292b6..1daf93f6  main -> main
-[main 754e9ea4] Progress: Translated row 36
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   1daf93f6..754e9ea4  main -> main
-[main c8a84ef9] Progress: Translated row 37
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   754e9ea4..c8a84ef9  main -> main
-[main 7b959504] Progress: Translated row 38
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   c8a84ef9..7b959504  main -> main
-[main 5ae5a318] Progress: Translated row 39
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   7b959504..5ae5a318  main -> main
-[main 72a7e936] Progress: Translated row 40
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   5ae5a318..72a7e936  main -> main
-[main b0a4b709] Progress: Translated row 41
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   72a7e936..b0a4b709  main -> main
-[main 257973ff] Progress: Translated row 42
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   b0a4b709..257973ff  main -> main
-[main 8b294717] Progress: Translated row 43
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   257973ff..8b294717  main -> main
-[main 7ccc1b33] Progress: Translated row 44
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   8b294717..7ccc1b33  main -> main
-[main 8a2027f0] Progress: Translated row 45
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   7ccc1b33..8a2027f0  main -> main
-[main 12d94005] Progress: Translated row 46
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   8a2027f0..12d94005  main -> main
-[main 1cc5cf32] Progress: Translated row 47
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   12d94005..1cc5cf32  main -> main
-[main c92a6723] Progress: Translated row 48
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   1cc5cf32..c92a6723  main -> main
-[main 6fe9943a] Progress: Translated row 49
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   c92a6723..6fe9943a  main -> main
-[main a04103d1] Progress: Translated row 50
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   6fe9943a..a04103d1  main -> main
-[main f6aa53f3] Progress: Translated row 51
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   a04103d1..f6aa53f3  main -> main
-[main e12699da] Progress: Translated row 52
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   f6aa53f3..e12699da  main -> main
-[main 654a8511] Progress: Translated row 53
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   e12699da..654a8511  main -> main
-[main 0e6cd24b] Progress: Translated row 54
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   654a8511..0e6cd24b  main -> main
-[main 724d4123] Progress: Translated row 55
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   0e6cd24b..724d4123  main -> main
-[main 89ec15f2] Progress: Translated row 56
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   724d4123..89ec15f2  main -> main
-[main bcc3522d] Progress: Translated row 57
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   89ec15f2..bcc3522d  main -> main
-[main 21e0c70b] Progress: Translated row 58
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   bcc3522d..21e0c70b  main -> main
-[main b65ab19a] Progress: Translated row 59
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   21e0c70b..b65ab19a  main -> main
-[main 008482d1] Progress: Translated row 60
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   b65ab19a..008482d1  main -> main
-[main 64d7f42b] Progress: Translated row 61
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   008482d1..64d7f42b  main -> main
-[main 1513546b] Progress: Translated row 62
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   64d7f42b..1513546b  main -> main
-[main e676e88f] Progress: Translated row 63
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   1513546b..e676e88f  main -> main
-[main b5935fc1] Progress: Translated row 64
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   e676e88f..b5935fc1  main -> main
-[main 5ee48f77] Progress: Translated row 65
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   b5935fc1..5ee48f77  main -> main
-[main 8ecc0645] Progress: Translated row 66
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   5ee48f77..8ecc0645  main -> main
-[main e78dd62f] Progress: Translated row 67
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   8ecc0645..e78dd62f  main -> main
-[main a0b3701a] Progress: Translated row 68
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   e78dd62f..a0b3701a  main -> main
-[main cae56194] Progress: Translated row 69
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   a0b3701a..cae56194  main -> main
-[main 392c4095] Progress: Translated row 70
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   cae56194..392c4095  main -> main
-[main 66e4a796] Progress: Translated row 71
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   392c4095..66e4a796  main -> main
-[main 37895e97] Progress: Translated row 72
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   66e4a796..37895e97  main -> main
-[main ba85728c] Progress: Translated row 73
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   37895e97..ba85728c  main -> main
-[main f0648ecd] Progress: Translated row 74
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   ba85728c..f0648ecd  main -> main
-[main 8c821a28] Progress: Translated row 75
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   f0648ecd..8c821a28  main -> main
-[main 750b4d46] Progress: Translated row 76
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   8c821a28..750b4d46  main -> main
-[main 8ed70465] Progress: Translated row 77
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   750b4d46..8ed70465  main -> main
-[main acbbaf21] Progress: Translated row 78
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   8ed70465..acbbaf21  main -> main
-[main b3fb54da] Progress: Translated row 79
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   acbbaf21..b3fb54da  main -> main
-[main 25aecfed] Progress: Translated row 80
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   b3fb54da..25aecfed  main -> main
-[main 107b0820] Progress: Translated row 81
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   25aecfed..107b0820  main -> main
-[main ff46833b] Progress: Translated row 82
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   107b0820..ff46833b  main -> main
-[main 2455e7a1] Progress: Translated row 83
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   ff46833b..2455e7a1  main -> main
-[main 7a5273b3] Progress: Translated row 84
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   2455e7a1..7a5273b3  main -> main
-[main a7db8cc3] Progress: Translated row 85
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   7a5273b3..a7db8cc3  main -> main
-[main e409e08a] Progress: Translated row 86
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   a7db8cc3..e409e08a  main -> main
-[main 7ca7146f] Progress: Translated row 87
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   e409e08a..7ca7146f  main -> main
-[main 19b99297] Progress: Translated row 88
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   7ca7146f..19b99297  main -> main
-[main 6f0b9f24] Progress: Translated row 89
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   19b99297..6f0b9f24  main -> main
-[main 7a847540] Progress: Translated row 90
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   6f0b9f24..7a847540  main -> main
-[main ca8ba689] Progress: Translated row 91
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   7a847540..ca8ba689  main -> main
-[main 1b70bf01] Progress: Translated row 92
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   ca8ba689..1b70bf01  main -> main
-[main fc47e9e4] Progress: Translated row 93
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   1b70bf01..fc47e9e4  main -> main
-[main 68fc0d5f] Progress: Translated row 94
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   fc47e9e4..68fc0d5f  main -> main
-[main 98f2e8f3] Progress: Translated row 95
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   68fc0d5f..98f2e8f3  main -> main
-[main 5778e64b] Progress: Translated row 96
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   98f2e8f3..5778e64b  main -> main
-[main a80bc1d9] Progress: Translated row 97
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   5778e64b..a80bc1d9  main -> main
-[main 895739c5] Progress: Translated row 98
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   a80bc1d9..895739c5  main -> main
-[main f34672d6] Progress: Translated row 99
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   895739c5..f34672d6  main -> main
-[main dac11616] Progress: Translated row 100
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   f34672d6..dac11616  main -> main
-[main 8a46f6a3] Progress: Translated row 101
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   dac11616..8a46f6a3  main -> main
-[main 647a2f67] Progress: Translated row 102
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   8a46f6a3..647a2f67  main -> main
-[main 46ab778e] Progress: Translated row 103
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   647a2f67..46ab778e  main -> main
-[main de572106] Progress: Translated row 104
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   46ab778e..de572106  main -> main
-[main 7220f965] Progress: Translated row 105
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   de572106..7220f965  main -> main
-[main b6497bfd] Progress: Translated row 106
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   7220f965..b6497bfd  main -> main
-[main 58607a0a] Progress: Translated row 107
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   b6497bfd..58607a0a  main -> main
-[main b6c46c41] Progress: Translated row 108
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   58607a0a..b6c46c41  main -> main
-[main 4cac83cb] Progress: Translated row 109
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   b6c46c41..4cac83cb  main -> main
-[main 43e27118] Progress: Translated row 110
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   4cac83cb..43e27118  main -> main
-[main 08e03e8e] Progress: Translated row 111
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   43e27118..08e03e8e  main -> main
-[main 47f7648b] Progress: Translated row 112
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   08e03e8e..47f7648b  main -> main
-[main bb560a88] Progress: Translated row 113
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   47f7648b..bb560a88  main -> main
-[main 1dd3fe82] Progress: Translated row 114
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   bb560a88..1dd3fe82  main -> main
-[main 4f15dd3d] Progress: Translated row 115
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   1dd3fe82..4f15dd3d  main -> main
-[main 3d51f9d1] Progress: Translated row 116
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   4f15dd3d..3d51f9d1  main -> main
-[main 46e3d38b] Progress: Translated row 117
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   3d51f9d1..46e3d38b  main -> main
-[main 7a0164cb] Progress: Translated row 118
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   46e3d38b..7a0164cb  main -> main
-[main 556eaece] Progress: Translated row 119
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   7a0164cb..556eaece  main -> main
-[main 39bb264f] Progress: Translated row 120
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   556eaece..39bb264f  main -> main
-[main ea54a001] Progress: Translated row 121
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   39bb264f..ea54a001  main -> main
-[main 5fd5bb8c] Progress: Translated row 122
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   ea54a001..5fd5bb8c  main -> main
-[main 5db86077] Progress: Translated row 123
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   5fd5bb8c..5db86077  main -> main
-[main c3c733e4] Progress: Translated row 124
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   5db86077..c3c733e4  main -> main
-[main 07cba48e] Progress: Translated row 125
- 3 files changed, 9 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   c3c733e4..07cba48e  main -> main
-[main fb456ec9] Progress: Translated row 126
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   07cba48e..fb456ec9  main -> main
-[main 1443544e] Progress: Translated row 127
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   fb456ec9..1443544e  main -> main
-[main de33ea03] Progress: Translated row 128
- 3 files changed, 8 insertions(+)
-To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
-   1443544e..de33ea03  main -> main
+Generating en split:   0%|          | 0/5234 [00:00<?, ? examples/s]Generating en split: 100%|██████████| 5234/5234 [00:00<00:00, 51393.49 examples/s]Generating en split: 100%|██████████| 5234/5234 [00:00<00:00, 51081.73 examples/s]
+Generating hi split:   0%|          | 0/7577 [00:00<?, ? examples/s]Generating hi split:  79%|███████▉  | 6000/7577 [00:00<00:00, 54094.92 examples/s]Generating hi split: 100%|██████████| 7577/7577 [00:00<00:00, 51761.88 examples/s]
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+fatal: Unable to create '/root/SinhalaLLM_dataset_creation/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/root/SinhalaLLM_dataset_creation/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b5d6984faead.(none)')

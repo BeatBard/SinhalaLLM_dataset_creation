@@ -1,1 +1,26 @@
 nohup: ignoring input
+[main 1f97c7b8] Progress: Translated row 1
+ 5 files changed, 105 insertions(+), 9554 deletions(-)
+ rewrite Translating_hindi/output.log (99%)
+ rewrite Translating_hindi/trans.py (60%)
+ rewrite Translating_hindi/translated_dataset.csv (99%)
+ delete mode 100644 Translating_hindi/translated_dataset_final.csv
+ rewrite Translating_hindi/translation.log (99%)
+Missing or invalid credentials.
+Error: connect ECONNREFUSED /tmp/vscode-git-5540b0a7de.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1607:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '/tmp/vscode-git-5540b0a7de.sock'
+}
+Missing or invalid credentials.
+Error: connect ECONNREFUSED /tmp/vscode-git-5540b0a7de.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1607:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '/tmp/vscode-git-5540b0a7de.sock'
+}
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/BeatBard/SinhalaLLM_dataset_creation.git/'

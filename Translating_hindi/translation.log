@@ -4,3 +4,7 @@
 2024-12-13 05:29:19,486 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
 2024-12-13 05:29:20,031 - INFO - Successfully translated row 1/7577.
 2024-12-13 05:29:20,037 - INFO - Progress saved to translated_dataset.csv.
+2024-12-13 05:29:21,550 - ERROR - Git error during push: Command '['git', 'push']' returned non-zero exit status 128.
+2024-12-13 05:29:21,551 - WARNING - Retrying Git operations in the next iteration...
+2024-12-13 05:29:22,007 - INFO - Successfully translated row 2/7577.
+2024-12-13 05:29:22,012 - INFO - Progress saved to translated_dataset.csv.

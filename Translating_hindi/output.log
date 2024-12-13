@@ -8,3 +8,7 @@ remote: warning: File Translating_hindi/env/lib/python3.8/site-packages/pyarrow/
 remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
    94092c41..2ae7506c  main -> main
+[main 48d86563] Progress: Translated row 2
+ 3 files changed, 13 insertions(+)
+To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
+   2ae7506c..48d86563  main -> main

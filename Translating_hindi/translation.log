@@ -4,3 +4,6 @@
 2024-12-13 09:11:36,985 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
 2024-12-13 09:11:37,540 - INFO - Successfully translated row 1/7577.
 2024-12-13 09:11:37,546 - INFO - Progress saved to translated_dataset.csv.
+2024-12-13 09:11:40,744 - INFO - Changes pushed to GitHub after translating row 1.
+2024-12-13 09:11:41,232 - INFO - Successfully translated row 2/7577.
+2024-12-13 09:11:41,236 - INFO - Progress saved to translated_dataset.csv.

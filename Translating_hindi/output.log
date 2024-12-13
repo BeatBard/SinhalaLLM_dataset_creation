@@ -1,6 +1,1 @@
 nohup: ignoring input
-[main 791ddf2d8] Progress: Translated row 1
- 3 files changed, 9 insertions(+), 23093 deletions(-)
- rewrite Translating_hindi/output.log (99%)
- rewrite Translating_hindi/translated_dataset.csv (98%)
- rewrite Translating_hindi/translation.log (99%)

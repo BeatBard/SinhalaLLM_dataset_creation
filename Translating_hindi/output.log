@@ -1,1 +1,10 @@
 nohup: ignoring input
+[main 2ae7506c] Progress: Translated row 1
+ 4 files changed, 19 insertions(+), 489 deletions(-)
+ rewrite Translating_hindi/output.log (99%)
+ rewrite Translating_hindi/translated_dataset.csv (94%)
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File Translating_hindi/env/lib/python3.8/site-packages/pyarrow/libarrow.so.1700 is 59.66 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/BeatBard/SinhalaLLM_dataset_creation.git
+   94092c41..2ae7506c  main -> main

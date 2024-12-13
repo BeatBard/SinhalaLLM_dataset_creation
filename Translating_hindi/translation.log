@@ -18,3 +18,7 @@
 2024-12-13 05:33:09,063 - WARNING - Retrying Git operations in the next iteration...
 2024-12-13 05:33:09,578 - INFO - Successfully translated row 4/7577.
 2024-12-13 05:33:09,582 - INFO - Progress saved to translated_dataset.csv.
+2024-12-13 05:33:11,128 - ERROR - Git error during push: Command '['git', 'push']' returned non-zero exit status 128.
+2024-12-13 05:33:11,128 - WARNING - Retrying Git operations in the next iteration...
+2024-12-13 05:33:11,603 - INFO - Successfully translated row 5/7577.
+2024-12-13 05:33:11,607 - INFO - Progress saved to translated_dataset.csv.

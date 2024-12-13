@@ -31,7 +31,21 @@ except Exception as e:
     logging.error(f"Error loading dataset: {e}. Exiting...")
     exit(1)
 
-# Function to translate text
+# Function to split text into chunks of max length 4975
+def split_text_into_chunks(text, max_length=4975):
+    chunks = []
+    while len(text) > max_length:
+        # Find the last full stop within the max length to split logically
+        split_idx = text[:max_length].rfind(".") + 1
+        if split_idx == 0:  # No full stop found, force split at max length
+            split_idx = max_length
+        chunks.append(text[:split_idx].strip())
+        text = text[split_idx:].strip()
+    if text:
+        chunks.append(text.strip())
+    return chunks
+
+# Function to translate text using GoogleTranslator
 def translate_to_sinhala(text):
     try:
         return GoogleTranslator(source="hi", target="si").translate(text)
@@ -45,13 +59,12 @@ translated_data = []
 # Translate the dataset row by row
 for index, row in enumerate(dataset):
     try:
-        # Extract the messages field
         messages = row.get("messages", [])
         if not messages or not isinstance(messages, list):
             logging.warning(f"Row {index} is missing 'messages' or has an invalid format. Skipping...")
             continue
 
-        # Extract the user prompt and assistant output
+        # Extract user prompt and assistant output
         prompt = next((m["content"] for m in messages if m["role"] == "user"), None)
         output = next((m["content"] for m in messages if m["role"] == "assistant"), None)
 
@@ -59,11 +72,17 @@ for index, row in enumerate(dataset):
             logging.warning(f"Row {index} is missing a valid 'prompt' or 'output'. Skipping...")
             continue
 
-        # Translate the prompt and output
-        translated_prompt = translate_to_sinhala(prompt)
-        translated_output = translate_to_sinhala(output)
+        # Handle chunking for prompt and output if longer than 4975 characters
+        translated_prompt = (
+            " ".join(translate_to_sinhala(chunk) for chunk in split_text_into_chunks(prompt))
+            if len(prompt) > 4975 else translate_to_sinhala(prompt)
+        )
+        translated_output = (
+            " ".join(translate_to_sinhala(chunk) for chunk in split_text_into_chunks(output))
+            if len(output) > 4975 else translate_to_sinhala(output)
+        )
 
-        # Append translated data to the list
+        # Add translated data to list
         translated_data.append({"prompt": translated_prompt, "output": translated_output})
         logging.info(f"Successfully translated row {index + 1}/{len(dataset)}.")
 

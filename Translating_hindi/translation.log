@@ -1,0 +1,43 @@
+2024-12-13 05:08:07,673 - INFO - Loading 'anudesh' config with 'hi' split from Hugging Face...
+2024-12-13 05:08:11,591 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
+2024-12-13 05:08:11,781 - ERROR - Error processing row 0: string indices must be integers
+2024-12-13 05:08:11,781 - ERROR - Error processing row 1: string indices must be integers
+2024-12-13 05:08:11,781 - ERROR - Error processing row 2: string indices must be integers
+2024-12-13 05:08:11,781 - ERROR - Error processing row 3: string indices must be integers
+2024-12-13 05:08:11,788 - INFO - Translation completed. Final dataset saved to translated_dataset_final.csv.
+2024-12-13 05:12:17,023 - INFO - Loading 'anudesh' config with 'hi' split from Hugging Face...
+2024-12-13 05:12:20,050 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
+2024-12-13 05:12:20,197 - ERROR - Error processing row 0: string indices must be integers
+2024-12-13 05:12:20,198 - ERROR - Error processing row 1: string indices must be integers
+2024-12-13 05:12:20,198 - ERROR - Error processing row 2: string indices must be integers
+2024-12-13 05:12:20,198 - ERROR - Error processing row 3: string indices must be integers
+2024-12-13 05:12:20,205 - INFO - Translation completed. Final dataset saved to translated_dataset_final.csv.
+2024-12-13 05:14:04,353 - INFO - Loading 'anudesh' config with 'hi' split from Hugging Face...
+2024-12-13 05:14:07,341 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
+2024-12-13 05:14:07,489 - ERROR - Error processing row 0: string indices must be integers
+2024-12-13 05:14:07,490 - ERROR - Error processing row 1: string indices must be integers
+2024-12-13 05:14:07,490 - ERROR - Error processing row 2: string indices must be integers
+2024-12-13 05:14:07,490 - ERROR - Error processing row 3: string indices must be integers
+2024-12-13 05:14:07,499 - INFO - Translation completed. Final dataset saved to translated_dataset_final.csv.
+2024-12-13 05:15:00,815 - INFO - Loading 'anudesh' config with 'hi' split from Hugging Face...
+2024-12-13 05:15:04,108 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
+2024-12-13 05:15:04,450 - WARNING - Row 0 is missing 'messages' or has invalid format.
+2024-12-13 05:15:04,450 - ERROR - Error processing row 1: string indices must be integers
+2024-12-13 05:15:04,450 - WARNING - Row 2 is missing 'messages' or has invalid format.
+2024-12-13 05:15:04,451 - WARNING - Row 3 is missing 'messages' or has invalid format.
+2024-12-13 05:15:04,461 - INFO - Translation completed. Final dataset saved to translated_dataset_final.csv.
+2024-12-13 05:19:20,622 - INFO - Loading 'anudesh' config with 'hi' split from Hugging Face...
+2024-12-13 05:19:24,684 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
+2024-12-13 05:19:24,843 - WARNING - Row 0 is missing 'messages' or has invalid format: id
+2024-12-13 05:19:24,843 - ERROR - Error processing row 1: string indices must be integers
+2024-12-13 05:19:24,843 - WARNING - Row 2 is missing 'messages' or has invalid format: num_turns
+2024-12-13 05:19:24,843 - WARNING - Row 3 is missing 'messages' or has invalid format: model
+2024-12-13 05:19:24,850 - INFO - Translation completed. Final dataset saved to translated_dataset_final.csv.
+2024-12-13 05:24:59,167 - INFO - Authenticating with Hugging Face...
+2024-12-13 05:24:59,523 - ERROR - Authentication failed: Invalid user token. If you didn't pass a user token, make sure you are properly logged in by executing `huggingface-cli login`, and if you did pass a user token, double-check it's correct.
+2024-12-13 05:25:50,741 - INFO - Authenticating with Hugging Face...
+2024-12-13 05:25:50,924 - INFO - Authenticated with Hugging Face successfully.
+2024-12-13 05:25:50,924 - INFO - Loading 'anudesh' config with 'hi' split from Hugging Face...
+2024-12-13 05:25:53,807 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
+2024-12-13 05:25:56,784 - INFO - Successfully translated row 1/7577.
+2024-12-13 05:25:56,791 - INFO - Progress saved to translated_dataset.csv.

@@ -112,3 +112,9 @@
 2024-12-13 09:15:26,404 - INFO - Changes pushed to GitHub after translating row 33.
 2024-12-13 09:15:27,521 - INFO - Successfully translated row 34/7577.
 2024-12-13 09:15:27,683 - INFO - Progress saved to translated_dataset.csv.
+2024-12-14 06:18:35,188 - INFO - Authenticating with Hugging Face...
+2024-12-14 06:18:35,764 - INFO - Authenticated with Hugging Face successfully.
+2024-12-14 06:18:35,764 - INFO - Loading 'anudesh' config with 'hi' split from Hugging Face...
+2024-12-14 06:18:41,747 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
+2024-12-14 06:18:42,303 - INFO - Successfully translated row 1/7577.
+2024-12-14 06:18:42,308 - INFO - Progress saved to translated_dataset.csv.

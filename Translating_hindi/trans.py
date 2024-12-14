@@ -18,7 +18,7 @@ logging.basicConfig(
 # Authenticate with Hugging Face
 try:
     logging.info("Authenticating with Hugging Face...")
-    login("<your-hugging-face-token>")  # Replace with your Hugging Face token
+    login("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")  # Replace with your Hugging Face token
     logging.info("Authenticated with Hugging Face successfully.")
 except Exception as e:
     logging.error(f"Authentication failed: {e}. Exiting...")

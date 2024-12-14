@@ -1,3 +1,6 @@
 nohup: ignoring input
 Generating en split:   0%|          | 0/5234 [00:00<?, ? examples/s]Generating en split: 100%|██████████| 5234/5234 [00:00<00:00, 65926.67 examples/s]
-Generating hi split:   0%|          | 0/7577 [00:00<?, ? examples/s]Generating hi split: 100%|██████████| 7577/7577 [00:00<00:00, 69813.54 examples/s]Generating hi split: 100%|██████████| 7577/7577 [00:00<00:00, 69170.79 examples/s]
+Generating hi split:   0%|          | 0/7577 [00:00<?, ? examples/s]Generating hi split: 100%|██████████| 7577/7577 [00:00<00:00, 69813.54 examples/s]Generating hi split: 100%|██████████| 7577/7577 [00:00<00:00, 69170.79 examples/s][main 20726d20] Progress: Translated row 1
+ 2908 files changed, 22 insertions(+), 4809 deletions(-)
+ rewrite Translating_hindi/output.log (99%)
+ rewrite Translating_hindi/translated_dataset.csv (99%)

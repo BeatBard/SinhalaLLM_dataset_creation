@@ -1,53 +1,9 @@
 nohup: ignoring input
-[main 5186e4178] Updated row 5670
- 1 file changed, 1 insertion(+)
+[main 5bb5551ca] Updated rows up to 289
+ 1 file changed, 20 insertions(+)
 To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   d2341fbc0..5186e4178  main -> main
-[main 8c8c775f3] Updated row 5671
- 1 file changed, 1 insertion(+)
+   ef27fb6f4..5bb5551ca  main -> main
+[main 4c47d631c] Updated rows up to 309
+ 1 file changed, 20 insertions(+)
 To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   5186e4178..8c8c775f3  main -> main
-[main 38e97a24b] Updated row 5672
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   8c8c775f3..38e97a24b  main -> main
-[main 08e2bb134] Updated row 5673
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   38e97a24b..08e2bb134  main -> main
-[main 7fc2b897c] Updated row 5674
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   08e2bb134..7fc2b897c  main -> main
-[main 8216fc032] Updated row 5675
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   7fc2b897c..8216fc032  main -> main
-[main 8b2f6faec] Updated row 5676
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   8216fc032..8b2f6faec  main -> main
-[main 7cc61c200] Updated row 5677
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   8b2f6faec..7cc61c200  main -> main
-[main 51e7632b4] Updated row 5678
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   7cc61c200..51e7632b4  main -> main
-[main 4496f9cc7] Updated row 5679
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   51e7632b4..4496f9cc7  main -> main
-[main 0c9ff95dc] Updated row 5680
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   4496f9cc7..0c9ff95dc  main -> main
-[main 8a9871278] Updated row 5681
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   0c9ff95dc..8a9871278  main -> main
-[main 16b510611] Updated row 5682
- 1 file changed, 1 insertion(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   8a9871278..16b510611  main -> main
+   5bb5551ca..4c47d631c  main -> main

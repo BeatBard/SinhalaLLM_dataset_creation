@@ -64,29 +64,30 @@ except Exception as e:
     logging.error(f"Error loading input CSV: {e}")
     exit(1)
 
-# Load the progress from the final translated dataset, if exists
+# Load progress from the final dataset, if exists
 translated_rows = []
-processed_indices = set()
+processed_prompts = set()  # Track processed prompts to avoid duplicate work
 
 if os.path.exists(output_csv):
     try:
         output_df = pd.read_csv(output_csv)
-        processed_indices = set(output_df.index)
+        processed_prompts = set(output_df["prompt"])  # Use "prompt" as the unique identifier
         translated_rows = output_df.to_dict(orient="records")
-        logging.info(f"Resuming from row {len(processed_indices)}.")
+        logging.info(f"Resuming with {len(processed_prompts)} processed rows.")
     except Exception as e:
         logging.warning(f"Unable to load progress file: {e}. Starting from the beginning.")
 
-# Detect and re-translate untranslated rows
-commit_counter = 0  # Track rows processed since the last commit
+# Process untranslated rows
+commit_counter = 0
 
 for index, row in input_df.iterrows():
-    if index in processed_indices:
-        continue  # Skip already processed rows
-
     try:
         prompt = row.get("prompt", "")
         output = row.get("output", "")
+
+        # Skip rows where the prompt already exists in the output file
+        if prompt in processed_prompts:
+            continue
 
         # Check if the output is untranslated (e.g., still in Hindi)
         if output.strip() == "" or any("\u0900" <= c <= "\u097F" for c in output):  # Unicode range for Hindi

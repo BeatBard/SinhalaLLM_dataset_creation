@@ -1039,3 +1039,222 @@
 2024-12-16 09:08:24,320 - INFO - Progress saved after processing row 6113.
 2024-12-16 09:08:25,009 - INFO - Final dataset saved to final_translated_dataset.csv.
 2024-12-16 09:08:30,518 - INFO - Final changes pushed to GitHub.
+2024-12-16 09:48:02,943 - INFO - Loaded input CSV with 6114 rows.
+2024-12-16 09:48:03,219 - INFO - Resuming from row 6114.
+2024-12-16 09:48:03,958 - INFO - Final dataset saved to final_translated_dataset.csv.
+2024-12-16 09:52:19,694 - INFO - Loaded input CSV with 6114 rows.
+2024-12-16 09:52:19,988 - INFO - Resuming with 5901 processed rows.
+2024-12-16 09:52:19,989 - INFO - Row 8 requires translation.
+2024-12-16 09:52:27,302 - INFO - Progress saved after processing row 8.
+2024-12-16 09:52:27,317 - INFO - Row 12 requires translation.
+2024-12-16 09:52:31,750 - INFO - Progress saved after processing row 12.
+2024-12-16 09:52:31,767 - INFO - Row 14 requires translation.
+2024-12-16 09:52:36,798 - INFO - Progress saved after processing row 14.
+2024-12-16 09:52:36,812 - INFO - Row 17 requires translation.
+2024-12-16 09:52:41,396 - INFO - Progress saved after processing row 17.
+2024-12-16 09:52:41,411 - INFO - Row 31 requires translation.
+2024-12-16 09:52:45,910 - INFO - Progress saved after processing row 31.
+2024-12-16 09:52:45,924 - INFO - Row 32 requires translation.
+2024-12-16 09:52:51,710 - INFO - Progress saved after processing row 32.
+2024-12-16 09:52:51,723 - INFO - Row 35 requires translation.
+2024-12-16 09:52:56,347 - INFO - Progress saved after processing row 35.
+2024-12-16 09:52:56,361 - INFO - Row 37 requires translation.
+2024-12-16 09:53:02,254 - INFO - Progress saved after processing row 37.
+2024-12-16 09:53:02,270 - INFO - Row 47 requires translation.
+2024-12-16 09:53:06,750 - INFO - Progress saved after processing row 47.
+2024-12-16 09:53:06,764 - INFO - Row 48 requires translation.
+2024-12-16 09:53:12,509 - INFO - Progress saved after processing row 48.
+2024-12-16 09:53:12,523 - INFO - Row 51 requires translation.
+2024-12-16 09:53:17,715 - INFO - Progress saved after processing row 51.
+2024-12-16 09:53:17,730 - INFO - Row 59 requires translation.
+2024-12-16 09:53:22,944 - INFO - Progress saved after processing row 59.
+2024-12-16 09:53:22,959 - INFO - Row 61 requires translation.
+2024-12-16 09:53:27,414 - INFO - Progress saved after processing row 61.
+2024-12-16 09:53:27,430 - INFO - Row 64 requires translation.
+2024-12-16 09:53:31,879 - INFO - Progress saved after processing row 64.
+2024-12-16 09:53:31,893 - INFO - Row 70 requires translation.
+2024-12-16 09:53:36,710 - INFO - Progress saved after processing row 70.
+2024-12-16 09:53:36,726 - INFO - Row 75 requires translation.
+2024-12-16 09:53:42,807 - INFO - Progress saved after processing row 75.
+2024-12-16 09:53:42,821 - INFO - Row 78 requires translation.
+2024-12-16 09:53:47,760 - INFO - Progress saved after processing row 78.
+2024-12-16 09:53:47,776 - INFO - Row 83 requires translation.
+2024-12-16 09:53:53,832 - INFO - Progress saved after processing row 83.
+2024-12-16 09:53:53,847 - INFO - Row 88 requires translation.
+2024-12-16 09:53:58,414 - INFO - Progress saved after processing row 88.
+2024-12-16 09:53:58,428 - INFO - Row 90 requires translation.
+2024-12-16 09:54:03,103 - INFO - Progress saved after processing row 90.
+2024-12-16 09:54:08,627 - INFO - Changes pushed to GitHub after processing row 90.
+2024-12-16 09:54:08,652 - INFO - Row 92 requires translation.
+2024-12-16 09:54:15,715 - INFO - Progress saved after processing row 92.
+2024-12-16 09:54:15,730 - INFO - Row 93 requires translation.
+2024-12-16 09:54:21,250 - INFO - Progress saved after processing row 93.
+2024-12-16 09:54:21,265 - INFO - Row 95 requires translation.
+2024-12-16 09:54:25,609 - INFO - Progress saved after processing row 95.
+2024-12-16 09:54:25,625 - INFO - Row 98 requires translation.
+2024-12-16 09:54:33,147 - INFO - Progress saved after processing row 98.
+2024-12-16 09:54:33,162 - INFO - Row 101 requires translation.
+2024-12-16 09:54:37,799 - INFO - Progress saved after processing row 101.
+2024-12-16 09:54:37,813 - INFO - Row 102 requires translation.
+2024-12-16 09:54:43,748 - INFO - Progress saved after processing row 102.
+2024-12-16 09:54:43,762 - INFO - Row 103 requires translation.
+2024-12-16 09:54:48,421 - INFO - Progress saved after processing row 103.
+2024-12-16 09:54:48,434 - INFO - Row 106 requires translation.
+2024-12-16 09:54:54,789 - INFO - Progress saved after processing row 106.
+2024-12-16 09:54:54,808 - INFO - Row 107 requires translation.
+2024-12-16 09:54:59,278 - INFO - Progress saved after processing row 107.
+2024-12-16 09:54:59,294 - INFO - Row 112 requires translation.
+2024-12-16 09:55:04,658 - INFO - Progress saved after processing row 112.
+2024-12-16 09:55:04,675 - INFO - Row 113 requires translation.
+2024-12-16 09:55:11,531 - INFO - Progress saved after processing row 113.
+2024-12-16 09:55:11,545 - INFO - Row 116 requires translation.
+2024-12-16 09:55:16,063 - INFO - Progress saved after processing row 116.
+2024-12-16 09:55:16,078 - INFO - Row 121 requires translation.
+2024-12-16 09:55:21,788 - INFO - Progress saved after processing row 121.
+2024-12-16 09:55:21,802 - INFO - Row 123 requires translation.
+2024-12-16 09:55:26,297 - INFO - Progress saved after processing row 123.
+2024-12-16 09:55:26,314 - INFO - Row 124 requires translation.
+2024-12-16 09:55:33,260 - INFO - Progress saved after processing row 124.
+2024-12-16 09:55:33,274 - INFO - Row 134 requires translation.
+2024-12-16 09:55:37,707 - INFO - Progress saved after processing row 134.
+2024-12-16 09:55:37,721 - INFO - Row 135 requires translation.
+2024-12-16 09:55:45,178 - INFO - Progress saved after processing row 135.
+2024-12-16 09:55:45,194 - INFO - Row 136 requires translation.
+2024-12-16 09:55:51,266 - INFO - Progress saved after processing row 136.
+2024-12-16 09:55:51,279 - INFO - Row 138 requires translation.
+2024-12-16 09:55:55,928 - INFO - Progress saved after processing row 138.
+2024-12-16 09:55:55,945 - INFO - Row 147 requires translation.
+2024-12-16 09:56:02,277 - INFO - Progress saved after processing row 147.
+2024-12-16 09:56:07,801 - INFO - Changes pushed to GitHub after processing row 147.
+2024-12-16 09:56:07,826 - INFO - Row 148 requires translation.
+2024-12-16 09:56:12,475 - INFO - Progress saved after processing row 148.
+2024-12-16 09:56:12,489 - INFO - Row 153 requires translation.
+2024-12-16 09:56:21,150 - INFO - Progress saved after processing row 153.
+2024-12-16 09:56:21,164 - INFO - Row 160 requires translation.
+2024-12-16 09:56:26,878 - INFO - Progress saved after processing row 160.
+2024-12-16 09:56:26,893 - INFO - Row 171 requires translation.
+2024-12-16 09:56:31,502 - INFO - Progress saved after processing row 171.
+2024-12-16 09:56:31,516 - INFO - Row 175 requires translation.
+2024-12-16 09:56:35,964 - INFO - Progress saved after processing row 175.
+2024-12-16 09:56:35,979 - INFO - Row 179 requires translation.
+2024-12-16 09:56:42,291 - INFO - Progress saved after processing row 179.
+2024-12-16 09:56:42,307 - INFO - Row 183 requires translation.
+2024-12-16 09:56:47,380 - INFO - Progress saved after processing row 183.
+2024-12-16 09:56:47,394 - INFO - Row 186 requires translation.
+2024-12-16 09:56:51,870 - INFO - Progress saved after processing row 186.
+2024-12-16 09:56:51,884 - INFO - Row 189 requires translation.
+2024-12-16 09:56:58,341 - INFO - Progress saved after processing row 189.
+2024-12-16 09:56:58,355 - INFO - Row 202 requires translation.
+2024-12-16 09:57:02,821 - INFO - Progress saved after processing row 202.
+2024-12-16 09:57:02,836 - INFO - Row 204 requires translation.
+2024-12-16 09:57:11,108 - INFO - Progress saved after processing row 204.
+2024-12-16 09:57:11,124 - INFO - Row 206 requires translation.
+2024-12-16 09:57:15,633 - INFO - Progress saved after processing row 206.
+2024-12-16 09:57:15,647 - INFO - Row 207 requires translation.
+2024-12-16 09:57:20,972 - INFO - Progress saved after processing row 207.
+2024-12-16 09:57:20,986 - INFO - Row 209 requires translation.
+2024-12-16 09:57:25,434 - INFO - Progress saved after processing row 209.
+2024-12-16 09:57:25,448 - INFO - Row 214 requires translation.
+2024-12-16 09:57:29,921 - INFO - Progress saved after processing row 214.
+2024-12-16 09:57:29,935 - INFO - Row 218 requires translation.
+2024-12-16 09:57:35,880 - INFO - Progress saved after processing row 218.
+2024-12-16 09:57:35,894 - INFO - Row 225 requires translation.
+2024-12-16 09:57:40,239 - INFO - Progress saved after processing row 225.
+2024-12-16 09:57:40,256 - INFO - Row 235 requires translation.
+2024-12-16 09:57:47,473 - INFO - Progress saved after processing row 235.
+2024-12-16 09:57:47,487 - INFO - Row 255 requires translation.
+2024-12-16 09:57:53,298 - INFO - Progress saved after processing row 255.
+2024-12-16 09:57:53,312 - INFO - Row 257 requires translation.
+2024-12-16 09:57:59,081 - INFO - Progress saved after processing row 257.
+2024-12-16 09:58:04,427 - INFO - Changes pushed to GitHub after processing row 257.
+2024-12-16 09:58:04,450 - INFO - Row 260 requires translation.
+2024-12-16 09:58:09,300 - INFO - Progress saved after processing row 260.
+2024-12-16 09:58:09,314 - INFO - Row 261 requires translation.
+2024-12-16 09:58:17,677 - INFO - Progress saved after processing row 261.
+2024-12-16 09:58:17,691 - INFO - Row 263 requires translation.
+2024-12-16 09:58:23,614 - INFO - Progress saved after processing row 263.
+2024-12-16 09:58:23,628 - INFO - Row 266 requires translation.
+2024-12-16 09:58:30,790 - INFO - Progress saved after processing row 266.
+2024-12-16 09:58:30,804 - INFO - Row 267 requires translation.
+2024-12-16 09:58:36,539 - INFO - Progress saved after processing row 267.
+2024-12-16 09:58:36,557 - INFO - Row 268 requires translation.
+2024-12-16 09:58:44,848 - INFO - Progress saved after processing row 268.
+2024-12-16 09:58:44,863 - INFO - Row 273 requires translation.
+2024-12-16 09:58:49,473 - INFO - Progress saved after processing row 273.
+2024-12-16 09:58:49,492 - INFO - Row 276 requires translation.
+2024-12-16 09:58:53,948 - INFO - Progress saved after processing row 276.
+2024-12-16 09:58:53,962 - INFO - Row 282 requires translation.
+2024-12-16 09:58:58,378 - INFO - Progress saved after processing row 282.
+2024-12-16 09:58:58,392 - INFO - Row 284 requires translation.
+2024-12-16 09:59:03,247 - INFO - Progress saved after processing row 284.
+2024-12-16 09:59:03,264 - INFO - Row 295 requires translation.
+2024-12-16 09:59:08,902 - INFO - Progress saved after processing row 295.
+2024-12-16 09:59:08,918 - INFO - Row 302 requires translation.
+2024-12-16 09:59:13,340 - INFO - Progress saved after processing row 302.
+2024-12-16 09:59:13,354 - INFO - Row 310 requires translation.
+2024-12-16 09:59:17,799 - INFO - Progress saved after processing row 310.
+2024-12-16 09:59:17,814 - INFO - Row 315 requires translation.
+2024-12-16 09:59:23,123 - INFO - Progress saved after processing row 315.
+2024-12-16 09:59:23,136 - INFO - Row 317 requires translation.
+2024-12-16 09:59:27,666 - INFO - Progress saved after processing row 317.
+2024-12-16 09:59:27,681 - INFO - Row 319 requires translation.
+2024-12-16 09:59:33,291 - INFO - Progress saved after processing row 319.
+2024-12-16 09:59:33,305 - INFO - Row 320 requires translation.
+2024-12-16 09:59:37,783 - INFO - Progress saved after processing row 320.
+2024-12-16 09:59:37,797 - INFO - Row 325 requires translation.
+2024-12-16 09:59:43,871 - INFO - Progress saved after processing row 325.
+2024-12-16 09:59:43,885 - INFO - Row 330 requires translation.
+2024-12-16 09:59:50,648 - INFO - Progress saved after processing row 330.
+2024-12-16 09:59:50,663 - INFO - Row 333 requires translation.
+2024-12-16 09:59:56,480 - INFO - Progress saved after processing row 333.
+2024-12-16 10:00:02,181 - INFO - Changes pushed to GitHub after processing row 333.
+2024-12-16 10:00:02,207 - INFO - Row 339 requires translation.
+2024-12-16 10:00:07,871 - INFO - Progress saved after processing row 339.
+2024-12-16 10:00:07,888 - INFO - Row 342 requires translation.
+2024-12-16 10:00:15,343 - INFO - Progress saved after processing row 342.
+2024-12-16 10:00:15,357 - INFO - Row 350 requires translation.
+2024-12-16 10:00:19,854 - INFO - Progress saved after processing row 350.
+2024-12-16 10:00:19,868 - INFO - Row 358 requires translation.
+2024-12-16 10:00:25,960 - INFO - Progress saved after processing row 358.
+2024-12-16 10:00:25,974 - INFO - Row 361 requires translation.
+2024-12-16 10:00:31,541 - INFO - Progress saved after processing row 361.
+2024-12-16 10:00:31,555 - INFO - Row 362 requires translation.
+2024-12-16 10:00:38,309 - INFO - Progress saved after processing row 362.
+2024-12-16 10:00:38,325 - INFO - Row 363 requires translation.
+2024-12-16 10:00:44,503 - INFO - Progress saved after processing row 363.
+2024-12-16 10:00:44,519 - INFO - Row 370 requires translation.
+2024-12-16 10:00:50,140 - INFO - Progress saved after processing row 370.
+2024-12-16 10:00:50,155 - INFO - Row 372 requires translation.
+2024-12-16 10:00:54,774 - INFO - Progress saved after processing row 372.
+2024-12-16 10:00:54,794 - INFO - Row 373 requires translation.
+2024-12-16 10:01:00,503 - INFO - Progress saved after processing row 373.
+2024-12-16 10:01:00,519 - INFO - Row 377 requires translation.
+2024-12-16 10:01:04,980 - INFO - Progress saved after processing row 377.
+2024-12-16 10:01:05,000 - INFO - Row 379 requires translation.
+2024-12-16 10:01:10,701 - INFO - Progress saved after processing row 379.
+2024-12-16 10:01:10,716 - INFO - Row 399 requires translation.
+2024-12-16 10:01:15,124 - INFO - Progress saved after processing row 399.
+2024-12-16 10:01:15,138 - INFO - Row 401 requires translation.
+2024-12-16 10:01:19,661 - INFO - Progress saved after processing row 401.
+2024-12-16 10:01:19,675 - INFO - Row 408 requires translation.
+2024-12-16 10:01:28,685 - INFO - Progress saved after processing row 408.
+2024-12-16 10:01:28,701 - INFO - Row 409 requires translation.
+2024-12-16 10:01:34,560 - INFO - Progress saved after processing row 409.
+2024-12-16 10:01:34,574 - INFO - Row 415 requires translation.
+2024-12-16 10:01:39,041 - INFO - Progress saved after processing row 415.
+2024-12-16 10:01:39,055 - INFO - Row 418 requires translation.
+2024-12-16 10:01:48,499 - INFO - Progress saved after processing row 418.
+2024-12-16 10:01:48,513 - INFO - Row 419 requires translation.
+2024-12-16 10:01:53,645 - INFO - Progress saved after processing row 419.
+2024-12-16 10:01:53,659 - INFO - Row 421 requires translation.
+2024-12-16 10:01:58,119 - INFO - Progress saved after processing row 421.
+2024-12-16 10:02:03,654 - INFO - Changes pushed to GitHub after processing row 421.
+2024-12-16 10:02:03,680 - INFO - Row 424 requires translation.
+2024-12-16 10:02:09,736 - INFO - Progress saved after processing row 424.
+2024-12-16 10:02:09,751 - INFO - Row 430 requires translation.
+2024-12-16 10:02:16,306 - INFO - Progress saved after processing row 430.
+2024-12-16 10:02:16,320 - INFO - Row 433 requires translation.
+2024-12-16 10:02:20,874 - INFO - Progress saved after processing row 433.
+2024-12-16 10:02:20,888 - INFO - Row 439 requires translation.
+2024-12-16 10:02:26,823 - INFO - Progress saved after processing row 439.
+2024-12-16 10:02:26,837 - INFO - Row 441 requires translation.

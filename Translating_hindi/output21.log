@@ -1,93 +1,21 @@
 nohup: ignoring input
-[main 3c8bc9f14] Updated rows up to 5689
+[main 622dd84b1] Updated rows up to 90
  1 file changed, 20 insertions(+)
 To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   6e5ace123..3c8bc9f14  main -> main
-[main bf788c0bb] Updated rows up to 5709
+   c13b640ee..622dd84b1  main -> main
+[main 2f20baf32] Updated rows up to 147
  1 file changed, 20 insertions(+)
 To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   3c8bc9f14..bf788c0bb  main -> main
-[main e68543b3d] Updated rows up to 5729
+   622dd84b1..2f20baf32  main -> main
+[main 066dd0887] Updated rows up to 257
  1 file changed, 20 insertions(+)
 To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   bf788c0bb..e68543b3d  main -> main
-[main bf04d0b5d] Updated rows up to 5749
+   2f20baf32..066dd0887  main -> main
+[main 2aedc1265] Updated rows up to 333
  1 file changed, 20 insertions(+)
 To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   e68543b3d..bf04d0b5d  main -> main
-[main a64767f14] Updated rows up to 5769
+   066dd0887..2aedc1265  main -> main
+[main bb655cfa1] Updated rows up to 421
  1 file changed, 20 insertions(+)
 To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   bf04d0b5d..a64767f14  main -> main
-[main a7edbc915] Updated rows up to 5789
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   a64767f14..a7edbc915  main -> main
-[main 07f256005] Updated rows up to 5809
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   a7edbc915..07f256005  main -> main
-[main f0871c019] Updated rows up to 5829
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   07f256005..f0871c019  main -> main
-[main 04165c2da] Updated rows up to 5849
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   f0871c019..04165c2da  main -> main
-[main d5e7976cf] Updated rows up to 5869
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   04165c2da..d5e7976cf  main -> main
-[main 846c7fa00] Updated rows up to 5889
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   d5e7976cf..846c7fa00  main -> main
-[main d608b4708] Updated rows up to 5909
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   846c7fa00..d608b4708  main -> main
-[main 6fd5dcf03] Updated rows up to 5929
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   d608b4708..6fd5dcf03  main -> main
-[main 8e37a5f51] Updated rows up to 5949
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   6fd5dcf03..8e37a5f51  main -> main
-[main 84b4c5ada] Updated rows up to 5969
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   8e37a5f51..84b4c5ada  main -> main
-[main 38e443800] Updated rows up to 5989
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   84b4c5ada..38e443800  main -> main
-[main 7d0257d97] Updated rows up to 6009
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   38e443800..7d0257d97  main -> main
-[main da1d5ec39] Updated rows up to 6029
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   7d0257d97..da1d5ec39  main -> main
-[main a3694015a] Updated rows up to 6049
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   da1d5ec39..a3694015a  main -> main
-[main 0d82fe10a] Updated rows up to 6069
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   a3694015a..0d82fe10a  main -> main
-[main 0aa0ffde6] Updated rows up to 6089
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   0d82fe10a..0aa0ffde6  main -> main
-[main fd69cc144] Updated rows up to 6109
- 1 file changed, 20 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   0aa0ffde6..fd69cc144  main -> main
-[main d9acd4afc] Final updates
- 1 file changed, 4 insertions(+)
-To github.com:BeatBard/SinhalaLLM_dataset_creation.git
-   fd69cc144..d9acd4afc  main -> main
+   2aedc1265..bb655cfa1  main -> main

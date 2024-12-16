@@ -65,17 +65,20 @@ except Exception as e:
     exit(1)
 
 # Load the progress from the final translated dataset, if exists
+translated_rows = []
 processed_indices = set()
+
 if os.path.exists(output_csv):
     try:
         output_df = pd.read_csv(output_csv)
         processed_indices = set(output_df.index)
+        translated_rows = output_df.to_dict(orient="records")
         logging.info(f"Resuming from row {len(processed_indices)}.")
     except Exception as e:
         logging.warning(f"Unable to load progress file: {e}. Starting from the beginning.")
 
 # Detect and re-translate untranslated rows
-translated_rows = []
+commit_counter = 0  # Track rows processed since the last commit
 
 for index, row in input_df.iterrows():
     if index in processed_indices:
@@ -105,18 +108,23 @@ for index, row in input_df.iterrows():
             # Keep already translated rows
             translated_rows.append({"prompt": prompt, "output": output})
 
+        # Increment the commit counter
+        commit_counter += 1
+
         # Save progress incrementally
         pd.DataFrame(translated_rows).to_csv(output_csv, index=False)
         logging.info(f"Progress saved after processing row {index}.")
 
-        # Commit and push updates to GitHub
-        try:
-            subprocess.run(["git", "add", output_csv], check=True)
-            subprocess.run(["git", "commit", "-m", f"Updated row {index}"], check=True)
-            subprocess.run(["git", "push"], check=True)
-            logging.info(f"Changes pushed to GitHub after processing row {index}.")
-        except subprocess.CalledProcessError as git_error:
-            logging.error(f"Git error during push: {git_error}")
+        # Commit and push updates every 20 rows
+        if commit_counter >= 20:
+            try:
+                subprocess.run(["git", "add", output_csv], check=True)
+                subprocess.run(["git", "commit", "-m", f"Updated rows up to {index}"], check=True)
+                subprocess.run(["git", "push"], check=True)
+                logging.info(f"Changes pushed to GitHub after processing row {index}.")
+                commit_counter = 0  # Reset counter
+            except subprocess.CalledProcessError as git_error:
+                logging.error(f"Git error during push: {git_error}")
 
     except Exception as e:
         logging.error(f"Error processing row {index}: {e}. Skipping row...")
@@ -130,3 +138,13 @@ try:
     logging.info(f"Final dataset saved to {output_csv}.")
 except Exception as e:
     logging.error(f"Error saving final dataset: {e}")
+
+# Final commit if there are remaining changes
+if commit_counter > 0:
+    try:
+        subprocess.run(["git", "add", output_csv], check=True)
+        subprocess.run(["git", "commit", "-m", "Final updates"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        logging.info("Final changes pushed to GitHub.")
+    except subprocess.CalledProcessError as git_error:
+        logging.error(f"Git error during final push: {git_error}")

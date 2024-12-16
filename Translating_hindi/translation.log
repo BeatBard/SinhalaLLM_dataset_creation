@@ -312,3 +312,35 @@
 2024-12-16 08:28:48,873 - INFO - Progress saved after processing row 5749.
 2024-12-16 08:28:51,124 - INFO - Changes pushed to GitHub after processing row 5749.
 2024-12-16 08:28:51,147 - INFO - Row 5750 requires translation.
+2024-12-16 08:38:12,813 - INFO - Loaded input CSV with 6114 rows.
+2024-12-16 08:38:13,077 - INFO - Resuming from row 5670.
+2024-12-16 08:38:13,944 - INFO - Progress saved after processing row 5670.
+2024-12-16 08:38:18,846 - INFO - Changes pushed to GitHub after processing row 5670.
+2024-12-16 08:38:19,654 - INFO - Progress saved after processing row 5671.
+2024-12-16 08:38:24,560 - INFO - Changes pushed to GitHub after processing row 5671.
+2024-12-16 08:38:24,586 - INFO - Row 5672 requires translation.
+2024-12-16 08:38:29,050 - INFO - Progress saved after processing row 5672.
+2024-12-16 08:38:34,307 - INFO - Changes pushed to GitHub after processing row 5672.
+2024-12-16 08:38:34,322 - INFO - Row 5673 requires translation.
+2024-12-16 08:38:38,747 - INFO - Progress saved after processing row 5673.
+2024-12-16 08:38:43,927 - INFO - Changes pushed to GitHub after processing row 5673.
+2024-12-16 08:38:44,491 - INFO - Progress saved after processing row 5674.
+2024-12-16 08:38:49,553 - INFO - Changes pushed to GitHub after processing row 5674.
+2024-12-16 08:38:50,204 - INFO - Progress saved after processing row 5675.
+2024-12-16 08:38:55,805 - INFO - Changes pushed to GitHub after processing row 5675.
+2024-12-16 08:38:56,347 - INFO - Progress saved after processing row 5676.
+2024-12-16 08:39:01,597 - INFO - Changes pushed to GitHub after processing row 5676.
+2024-12-16 08:39:01,621 - INFO - Row 5677 requires translation.
+2024-12-16 08:39:06,094 - INFO - Progress saved after processing row 5677.
+2024-12-16 08:39:11,229 - INFO - Changes pushed to GitHub after processing row 5677.
+2024-12-16 08:39:11,254 - INFO - Row 5678 requires translation.
+2024-12-16 08:39:16,613 - INFO - Progress saved after processing row 5678.
+2024-12-16 08:39:22,003 - INFO - Changes pushed to GitHub after processing row 5678.
+2024-12-16 08:39:22,608 - INFO - Progress saved after processing row 5679.
+2024-12-16 08:39:27,890 - INFO - Changes pushed to GitHub after processing row 5679.
+2024-12-16 08:39:28,526 - INFO - Progress saved after processing row 5680.
+2024-12-16 08:39:33,529 - INFO - Changes pushed to GitHub after processing row 5680.
+2024-12-16 08:39:34,145 - INFO - Progress saved after processing row 5681.
+2024-12-16 08:39:39,266 - INFO - Changes pushed to GitHub after processing row 5681.
+2024-12-16 08:39:39,909 - INFO - Progress saved after processing row 5682.
+2024-12-16 08:39:45,265 - INFO - Changes pushed to GitHub after processing row 5682.

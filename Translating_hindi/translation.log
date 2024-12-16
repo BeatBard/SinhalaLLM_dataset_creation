@@ -118,3 +118,113 @@
 2024-12-14 06:18:41,747 - INFO - Successfully loaded 'anudesh' config with 'hi' split containing 7577 rows.
 2024-12-14 06:18:42,303 - INFO - Successfully translated row 1/7577.
 2024-12-14 06:18:42,308 - INFO - Progress saved to translated_dataset.csv.
+2024-12-16 08:23:22,148 - INFO - Loaded input CSV with 6114 rows.
+2024-12-16 08:23:22,414 - INFO - Resuming from row 5670.
+2024-12-16 08:23:22,524 - INFO - Progress saved after processing row 5670.
+2024-12-16 08:23:24,726 - INFO - Changes pushed to GitHub after processing row 5670.
+2024-12-16 08:23:24,751 - INFO - Progress saved after processing row 5671.
+2024-12-16 08:23:27,104 - INFO - Changes pushed to GitHub after processing row 5671.
+2024-12-16 08:23:27,128 - INFO - Row 5672 requires translation.
+2024-12-16 08:23:30,985 - INFO - Progress saved after processing row 5672.
+2024-12-16 08:23:33,231 - INFO - Changes pushed to GitHub after processing row 5672.
+2024-12-16 08:23:33,253 - INFO - Row 5673 requires translation.
+2024-12-16 08:23:37,125 - INFO - Progress saved after processing row 5673.
+2024-12-16 08:23:39,393 - INFO - Changes pushed to GitHub after processing row 5673.
+2024-12-16 08:23:39,422 - INFO - Progress saved after processing row 5674.
+2024-12-16 08:23:41,714 - INFO - Changes pushed to GitHub after processing row 5674.
+2024-12-16 08:23:41,742 - INFO - Progress saved after processing row 5675.
+2024-12-16 08:23:43,794 - INFO - Changes pushed to GitHub after processing row 5675.
+2024-12-16 08:23:43,822 - INFO - Progress saved after processing row 5676.
+2024-12-16 08:23:46,023 - INFO - Changes pushed to GitHub after processing row 5676.
+2024-12-16 08:23:46,051 - INFO - Row 5677 requires translation.
+2024-12-16 08:23:49,907 - INFO - Progress saved after processing row 5677.
+2024-12-16 08:23:52,240 - INFO - Changes pushed to GitHub after processing row 5677.
+2024-12-16 08:23:52,264 - INFO - Row 5678 requires translation.
+2024-12-16 08:23:56,121 - INFO - Progress saved after processing row 5678.
+2024-12-16 08:23:58,353 - INFO - Changes pushed to GitHub after processing row 5678.
+2024-12-16 08:23:58,385 - INFO - Progress saved after processing row 5679.
+2024-12-16 08:24:00,528 - INFO - Changes pushed to GitHub after processing row 5679.
+2024-12-16 08:24:00,558 - INFO - Progress saved after processing row 5680.
+2024-12-16 08:24:02,752 - INFO - Changes pushed to GitHub after processing row 5680.
+2024-12-16 08:24:02,781 - INFO - Progress saved after processing row 5681.
+2024-12-16 08:24:05,047 - INFO - Changes pushed to GitHub after processing row 5681.
+2024-12-16 08:24:05,077 - INFO - Progress saved after processing row 5682.
+2024-12-16 08:24:07,214 - INFO - Changes pushed to GitHub after processing row 5682.
+2024-12-16 08:24:07,243 - INFO - Progress saved after processing row 5683.
+2024-12-16 08:24:09,384 - INFO - Changes pushed to GitHub after processing row 5683.
+2024-12-16 08:24:09,415 - INFO - Progress saved after processing row 5684.
+2024-12-16 08:24:11,611 - INFO - Changes pushed to GitHub after processing row 5684.
+2024-12-16 08:24:11,641 - INFO - Progress saved after processing row 5685.
+2024-12-16 08:24:13,722 - INFO - Changes pushed to GitHub after processing row 5685.
+2024-12-16 08:24:13,745 - INFO - Row 5686 requires translation.
+2024-12-16 08:24:17,602 - INFO - Progress saved after processing row 5686.
+2024-12-16 08:24:19,804 - INFO - Changes pushed to GitHub after processing row 5686.
+2024-12-16 08:24:19,820 - INFO - Row 5687 requires translation.
+2024-12-16 08:24:23,653 - INFO - Progress saved after processing row 5687.
+2024-12-16 08:24:25,990 - INFO - Changes pushed to GitHub after processing row 5687.
+2024-12-16 08:24:26,014 - INFO - Row 5688 requires translation.
+2024-12-16 08:24:29,858 - INFO - Progress saved after processing row 5688.
+2024-12-16 08:24:31,999 - INFO - Changes pushed to GitHub after processing row 5688.
+2024-12-16 08:24:32,022 - INFO - Row 5689 requires translation.
+2024-12-16 08:24:35,860 - INFO - Progress saved after processing row 5689.
+2024-12-16 08:24:38,016 - INFO - Changes pushed to GitHub after processing row 5689.
+2024-12-16 08:24:38,049 - INFO - Progress saved after processing row 5690.
+2024-12-16 08:24:40,365 - INFO - Changes pushed to GitHub after processing row 5690.
+2024-12-16 08:24:40,396 - INFO - Progress saved after processing row 5691.
+2024-12-16 08:24:42,660 - INFO - Changes pushed to GitHub after processing row 5691.
+2024-12-16 08:24:42,695 - INFO - Progress saved after processing row 5692.
+2024-12-16 08:24:44,982 - INFO - Changes pushed to GitHub after processing row 5692.
+2024-12-16 08:24:45,004 - INFO - Row 5693 requires translation.
+2024-12-16 08:24:48,888 - INFO - Progress saved after processing row 5693.
+2024-12-16 08:24:50,989 - INFO - Changes pushed to GitHub after processing row 5693.
+2024-12-16 08:24:51,014 - INFO - Row 5694 requires translation.
+2024-12-16 08:24:55,383 - INFO - Progress saved after processing row 5694.
+2024-12-16 08:24:57,545 - INFO - Changes pushed to GitHub after processing row 5694.
+2024-12-16 08:24:57,571 - INFO - Row 5695 requires translation.
+2024-12-16 08:25:01,438 - INFO - Progress saved after processing row 5695.
+2024-12-16 08:25:03,748 - INFO - Changes pushed to GitHub after processing row 5695.
+2024-12-16 08:25:03,780 - INFO - Progress saved after processing row 5696.
+2024-12-16 08:25:06,018 - INFO - Changes pushed to GitHub after processing row 5696.
+2024-12-16 08:25:06,049 - INFO - Progress saved after processing row 5697.
+2024-12-16 08:25:08,363 - INFO - Changes pushed to GitHub after processing row 5697.
+2024-12-16 08:25:08,387 - INFO - Row 5698 requires translation.
+2024-12-16 08:25:12,280 - INFO - Progress saved after processing row 5698.
+2024-12-16 08:25:14,377 - INFO - Changes pushed to GitHub after processing row 5698.
+2024-12-16 08:25:14,401 - INFO - Row 5699 requires translation.
+2024-12-16 08:25:19,522 - INFO - Progress saved after processing row 5699.
+2024-12-16 08:25:21,936 - INFO - Changes pushed to GitHub after processing row 5699.
+2024-12-16 08:25:21,962 - INFO - Progress saved after processing row 5700.
+2024-12-16 08:25:24,296 - INFO - Changes pushed to GitHub after processing row 5700.
+2024-12-16 08:25:24,331 - INFO - Progress saved after processing row 5701.
+2024-12-16 08:25:26,676 - INFO - Changes pushed to GitHub after processing row 5701.
+2024-12-16 08:25:26,707 - INFO - Progress saved after processing row 5702.
+2024-12-16 08:25:28,843 - INFO - Changes pushed to GitHub after processing row 5702.
+2024-12-16 08:25:28,875 - INFO - Progress saved after processing row 5703.
+2024-12-16 08:25:31,328 - INFO - Changes pushed to GitHub after processing row 5703.
+2024-12-16 08:25:31,365 - INFO - Progress saved after processing row 5704.
+2024-12-16 08:25:33,477 - INFO - Changes pushed to GitHub after processing row 5704.
+2024-12-16 08:25:33,504 - INFO - Row 5705 requires translation.
+2024-12-16 08:25:37,400 - INFO - Progress saved after processing row 5705.
+2024-12-16 08:25:39,502 - INFO - Changes pushed to GitHub after processing row 5705.
+2024-12-16 08:25:39,547 - INFO - Progress saved after processing row 5706.
+2024-12-16 08:25:41,644 - INFO - Changes pushed to GitHub after processing row 5706.
+2024-12-16 08:25:41,661 - INFO - Row 5707 requires translation.
+2024-12-16 08:25:45,513 - INFO - Progress saved after processing row 5707.
+2024-12-16 08:25:47,778 - INFO - Changes pushed to GitHub after processing row 5707.
+2024-12-16 08:25:47,811 - INFO - Progress saved after processing row 5708.
+2024-12-16 08:25:50,112 - INFO - Changes pushed to GitHub after processing row 5708.
+2024-12-16 08:25:50,145 - INFO - Progress saved after processing row 5709.
+2024-12-16 08:25:52,325 - INFO - Changes pushed to GitHub after processing row 5709.
+2024-12-16 08:25:52,364 - INFO - Progress saved after processing row 5710.
+2024-12-16 08:25:54,771 - INFO - Changes pushed to GitHub after processing row 5710.
+2024-12-16 08:25:54,796 - INFO - Progress saved after processing row 5711.
+2024-12-16 08:25:54,813 - ERROR - Git error during push: Command '['git', 'add', 'final_translated_dataset.csv']' returned non-zero exit status 128.
+2024-12-16 08:25:54,833 - INFO - Progress saved after processing row 5712.
+2024-12-16 08:25:54,849 - ERROR - Git error during push: Command '['git', 'add', 'final_translated_dataset.csv']' returned non-zero exit status 128.
+2024-12-16 08:25:54,868 - INFO - Progress saved after processing row 5713.
+2024-12-16 08:25:54,896 - ERROR - Git error during push: Command '['git', 'add', 'final_translated_dataset.csv']' returned non-zero exit status 128.
+2024-12-16 08:25:54,920 - INFO - Progress saved after processing row 5714.
+2024-12-16 08:25:54,946 - ERROR - Git error during push: Command '['git', 'add', 'final_translated_dataset.csv']' returned non-zero exit status 128.
+2024-12-16 08:25:54,968 - INFO - Progress saved after processing row 5715.
+2024-12-16 08:25:54,981 - ERROR - Git error during push: Command '['git', 'add', 'final_translated_dataset.csv']' returned non-zero exit status 128.
+2024-12-16 08:25:54,993 - INFO - Row 5716 requires translation.

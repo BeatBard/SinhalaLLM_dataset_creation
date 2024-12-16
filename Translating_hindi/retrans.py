@@ -52,24 +52,36 @@ def translate_to_sinhala(text, retries=3, delay=1):
     logging.error("Translation failed after multiple attempts.")
     return text  # Return original text as fallback
 
-# Load the input CSV
+# File paths
 input_csv = "translated_dataset.csv"  # Replace with your file name
 output_csv = "final_translated_dataset.csv"
 
+# Load the input CSV
 try:
-    # Load the CSV file while skipping bad lines
     input_df = pd.read_csv(input_csv, on_bad_lines="skip")
     logging.info(f"Loaded input CSV with {len(input_df)} rows.")
 except Exception as e:
     logging.error(f"Error loading input CSV: {e}")
     exit(1)
 
+# Load the progress from the final translated dataset, if exists
+processed_indices = set()
+if os.path.exists(output_csv):
+    try:
+        output_df = pd.read_csv(output_csv)
+        processed_indices = set(output_df.index)
+        logging.info(f"Resuming from row {len(processed_indices)}.")
+    except Exception as e:
+        logging.warning(f"Unable to load progress file: {e}. Starting from the beginning.")
+
 # Detect and re-translate untranslated rows
 translated_rows = []
 
 for index, row in input_df.iterrows():
+    if index in processed_indices:
+        continue  # Skip already processed rows
+
     try:
-        # Safely access row data
         prompt = row.get("prompt", "")
         output = row.get("output", "")
 
